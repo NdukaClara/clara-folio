@@ -287,7 +287,7 @@ ul {
 .hero_btn .btn{
     display:block;
     padding: 10px 20px;
-    color: crimson;
+    color: whitesmoke;
     background-color: transparent;
     border: 2px solid crimson;
     margin-top: 10px;
@@ -652,8 +652,8 @@ ul {
     .whatsapp_float {
         width: 40px;
         height: 40px;
-        bottom: 20px;
-        right: 80px;
+        bottom: 40px;
+        right: 60px;
         font-size: 22px;
     }
 }
