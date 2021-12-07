@@ -564,6 +564,15 @@ ul {
     .contact_items {
         flex-direction: column;
     }
+    #contact .icon {
+        font-size: 25px;
+    }
+    .contact_info h3 {
+        font-size: 1.6rem;
+    }
+    .contact_info h4 {
+        font-size: 1.3rem;
+    }
 }
 .contact_form {
     margin-top: 5rem;
