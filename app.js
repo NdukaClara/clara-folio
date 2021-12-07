@@ -22,7 +22,7 @@ menu_item.forEach((item) => {
 // js for header scroll
 document.addEventListener("scroll", () => {
   let scroll_position = window.scrollY;
-  if (scroll_position > 200) {
+  if (scroll_position > 50) {
     header.style.backgroundColor = "rgb(20, 20, 20)";
   } else {
     header.style.backgroundColor = "transparent";
