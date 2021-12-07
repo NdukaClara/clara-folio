@@ -416,7 +416,7 @@ ul {
     line-height: 2;
     font-size: 1.2rem;
     font-family: 'Montserrat';
-    margin-top: 5rem;
+    margin-top: 2rem;
 }
 .project_subheading {
     font-size: 2.5rem;
@@ -486,9 +486,6 @@ ul {
         flex-direction: column;
         align-items: center;
         justify-content: center;
-    }
-    .project_info {
-        margin-bottom: 3rem;
     }
 }
 /*End project styles */
