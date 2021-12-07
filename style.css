@@ -430,13 +430,14 @@ ul {
     margin-bottom: 3rem; 
 }
 .project_info_wrapper {
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     margin-bottom: 2rem;
+    gap: 3rem;
+    padding-top: 3rem;
 }
 .project_info {
     width: 100%;
-    margin-left: 1rem;
-    margin-right: 1rem;
     background-color: white;
     border-radius: 5px;
 }
@@ -481,9 +482,7 @@ ul {
         font-size: 1.5rem;
     }
     .project_info_wrapper {
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
+        grid-template-columns: 1fr;
     }
 }
 /*End project styles */
