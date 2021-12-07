@@ -375,8 +375,8 @@ ul {
     line-height: 1.5;
 } 
 .skills_img {
-    margin: 5rem 0 2rem 5rem;
-    width: 80px;
+    margin: 5rem 0 2rem 6rem;
+    width: 50px;
     height: max-content;
 }
 .skills_img img {
