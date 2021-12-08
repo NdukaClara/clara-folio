@@ -528,7 +528,7 @@ ul {
     margin: 0 auto;
     margin-bottom: 1.5rem;
     border-radius: 50%;
-    padding: 12px 15px;
+    padding: 12px 14px;
     box-shadow: 2px 2px 3px #999;
 }
 .icon-1 {
@@ -561,7 +561,7 @@ ul {
     }
     #contact .icon {
         font-size: 1.8rem;
-        padding: 8px 11px;
+        padding: 8px 10px;
         margin-bottom: 1rem;
     }
     .contact_info h3 {
