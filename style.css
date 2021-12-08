@@ -506,7 +506,6 @@ ul {
     align-items: center;
     justify-content: center;
     margin-top: 5rem;
-    /* margin-bottom: 3rem; */
 }
 .contact_item{
     width: 80%;
@@ -525,11 +524,12 @@ ul {
     box-shadow: 0px 0px 5px 0 #0000002c;
 }
 #contact .icon{
-    font-size: 30px;
+    font-size: 2.6rem;
     margin: 0 auto;
-    margin-bottom: 10px;
+    margin-bottom: 1.5rem;
     border-radius: 50%;
-    padding: 5px 10px;
+    padding: 12px 15px;
+    box-shadow: 2px 2px 3px #999;
 }
 .icon-1 {
     color: white;
@@ -560,7 +560,9 @@ ul {
         flex-direction: column;
     }
     #contact .icon {
-        font-size: 25px;
+        font-size: 1.8rem;
+        padding: 8px 11px;
+        margin-bottom: 1rem;
     }
     .contact_info h3 {
         font-size: 1.6rem;
@@ -632,8 +634,8 @@ ul {
     position: fixed;
     width: 60px;
     height: 60px;
-    bottom: 40px;
-    right: 150px;
+    bottom: 60px;
+    right: 20px;
     background-color: #25d356;
     color: white;
     border-radius: 50px;
@@ -652,8 +654,7 @@ ul {
     .whatsapp_float {
         width: 40px;
         height: 40px;
-        bottom: 40px;
-        right: 60px;
+        right: 27px;
         font-size: 22px;
     }
 }
