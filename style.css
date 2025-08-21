@@ -577,6 +577,7 @@ ul {
   background-size: cover;
   background-position: top center;
   z-index: 1;
+  margin-top: 10rem;
   position: relative;
 }
 #footer::after {
